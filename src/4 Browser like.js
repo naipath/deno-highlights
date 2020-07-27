@@ -1,4 +1,4 @@
-// 4.Browser Like
+// 4. Browser Like
 
 let res = await fetch("https://meowfacts.herokuapp.com/")
 let { data: [leFact] } = await res.json()

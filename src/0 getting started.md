@@ -1,18 +1,18 @@
+# 0. Getting started
 
-# Installing
+## Installing
 
 `brew install deno`
 `curl -fsSL https://deno.land/x/install/install.sh | sh`
 `choco install deno`
 
 
-
-# Upgrading
+## Upgrading
 
 `deno upgrade`
 
 
-# Autocompletion
+## Autocompletion
 
 ```zsh
 mkdir ~/.oh-my-zsh/custom/plugins/deno
